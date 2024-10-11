@@ -56,4 +56,4 @@
 > 원윤서
 > > 프론트, 백엔드 담당
 > > 
-> > yoonsu0325@pusan.ac.kr
+> > email : yoonsu0325@pusan.ac.kr
