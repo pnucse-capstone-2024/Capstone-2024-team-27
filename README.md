@@ -44,7 +44,8 @@
 
 ### 4. 시연 영상
 > 시연영상 유튜브 링크
-> > https://youtu.be/YoGGfor5GlI?si=AtlUuquL-A9W9GSS
+> > https://www.youtube.com/watch?v=YoGGfor5GlI/0.jpg
+> > https://www.youtube.com/watch?v=YoGGfor5GlI
 
 ### 5. 팀 소개
 > 금비(팀장)
