@@ -43,7 +43,7 @@
 >    - **CUDA (GPU 사용 시)**: PyTorch 버전에 맞는 CUDA 버전 사용 (예: CUDA 11.3+)
 
 ### 4. 시연 영상
-> 시연영상 유튜브 링크
+> [![부산대학교 정보컴퓨터공학부 소개](http://img.youtube.com/vi/zh_gQ_lmLqE/0.jpg)](https://www.youtube.com/watch?v=zh_gQ_lmLqE)   
 > > https://www.youtube.com/watch?v=YoGGfor5GlI
 
 ### 5. 팀 소개
