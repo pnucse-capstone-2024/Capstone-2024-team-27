@@ -43,8 +43,8 @@
 >    - **CUDA (GPU 사용 시)**: PyTorch 버전에 맞는 CUDA 버전 사용 (예: CUDA 11.3+)
 
 ### 4. 시연 영상
-
-
+> 시연영상 유튜브 링크
+> > https://youtu.be/YoGGfor5GlI?si=AtlUuquL-A9W9GSS
 
 ### 5. 팀 소개
 > 금비(팀장)
