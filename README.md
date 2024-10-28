@@ -44,7 +44,6 @@
 
 ### 4. 시연 영상
 > 시연영상 유튜브 링크
-> > <img src="[image URL](https://www.youtube.com/watch?v=YoGGfor5GlI/0.jpg)" width="600px" title="Title" alt="Alt text"></img>
 > > https://www.youtube.com/watch?v=YoGGfor5GlI
 
 ### 5. 팀 소개
